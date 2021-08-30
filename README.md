@@ -1,6 +1,6 @@
 # BookManagementSystem
 
-
+![](./res/show.gif)
 
 ### Introduction
 
@@ -44,7 +44,7 @@
 
 ### Envoirment
 
-+ 开发环境：qt + MySQL
++ 开发环境：Qt 5.9.9 + MySQL 5.7
 
 ### Build & Run
 
@@ -125,7 +125,11 @@
 
 + 环境
 
+  - Qt环境
+
 + 运行
+
+  ![](./res/run.png)
 
 ### Result
 
