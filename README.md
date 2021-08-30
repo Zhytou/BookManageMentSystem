@@ -5,6 +5,8 @@
 ### Introduction
 
 + 以MySQL数据库作为数据存取工具，通过编程语言工具来包装数据库接口，设计一个交互式的图书管理系统，让用户能够通过与程序交互来模拟图书的借还等操作。
+  - [详细介绍](https://github.com/Zhytou/BookManagementSystem/blob/main/res/lab.docx)
+  - [实验报告](https://github.com/Zhytou/BookManagementSystem/blob/main/res/report.pdf)
 
 ### Entity Object
 
