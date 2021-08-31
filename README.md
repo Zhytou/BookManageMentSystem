@@ -129,7 +129,7 @@
 
 + 运行
 
-  ![](./res/run.png)
+  ![](./res/run.PNG)
 
 ### Result
 
