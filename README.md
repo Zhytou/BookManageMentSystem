@@ -1,4 +1,5 @@
 # BookManagementSystem
+> Toy project for course
 
 ![](./res/show.gif)
 
